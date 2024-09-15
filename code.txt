@@ -1,0 +1,14 @@
+Write a pseudocode for Authentication
+
+BEGIN
+    User inputs email and password
+    Check if email exists in database
+    If email exists, check if password matches the stored password
+    If password matches, grant access to the user
+    ELSE
+    Display an error message
+    
+
+Email: 
+
+Password: 

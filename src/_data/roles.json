@@ -1,0 +1,18 @@
+[
+  {
+    "name": "superadmin",
+    "description": "superadmin can acess and do anything in the system"
+  },
+  {
+    "name": "admin",
+    "description": "admin has limited access less than what superadmins can do"
+  },
+  {
+    "name": "business",
+    "description": "businesses signup and uses the platform features"
+  },
+  {
+    "name": "user",
+    "description": "users of the platform"
+  }
+]
